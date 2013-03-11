@@ -1,1 +1,1 @@
-/Users/idle/.vimrc
+/Users/idle/.DotFiles/vimrc

@@ -1,1 +1,0 @@
-/Users/idle/.vim
