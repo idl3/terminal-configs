@@ -1,0 +1,1 @@
+/Users/idle/git-completion.bash
